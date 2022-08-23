@@ -19,7 +19,7 @@ body {
     background-position: center center;
 }
 
-.banner-content {
+.banner-content-area {
     margin: auto;
     width: 43%;
     padding: 100px;
@@ -31,13 +31,13 @@ body {
     font-weight: 600;
 }
 
-.banner-content>p {
+.banner-content-area>p {
     color: #e5e4e4;
     font-size: 20px;
 }
 
 .button {
-    background-color: #ff5959;
+    background-color: #cd5959;
     padding: 15px 25px;
     font-size: 20px;
     color: #ffffff;
@@ -84,8 +84,8 @@ body {
 
 .donation-ammount:hover {
     background-color: #ffeeee;
-    color: #ff5959;
-    border: 2px solid #ff5959;
+    color: #cd5959;
+    border: 2px solid #cd5959;
     width: 146px;
     height: 146px;
     border-radius: 5px;
@@ -109,7 +109,7 @@ body {
 }
 
 .button2 {
-    background-color: #ff5959;
+    background-color: #cd5959;
     text-align: center;
     padding: 15px 25px;
     font-size: 20px;
@@ -183,7 +183,7 @@ body {
 }
 
 .members-area-title {
-    background-color: #ff5959;
+    background-color: #cd5959;
     color: white;
     padding: 20px;
     border-radius: 10px;
@@ -241,7 +241,7 @@ body {
 .newsletter-button {
     height: 42px;
     border: none;
-    background-color: #ff5959;
+    background-color: #cd5959;
     color: #ffffff;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
